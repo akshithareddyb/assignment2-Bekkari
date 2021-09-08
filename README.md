@@ -15,9 +15,9 @@ I am more **connected** to that place as it's my hometown and lot of **memories*
    3. By Flight from Chicago to Delhi
    4. By Flight from Delhi to Hyderabad 
 2. Finally reached to my favourite place!
-*Playing Cards
-*Bluetooth Speaker
-*Snacks
-*Comfy Clothes
-*Firewood
-*Camping Tent
+* Playing Cards
+* Bluetooth Speaker
+* Snacks
+* Comfy Clothes
+* Firewood
+* Camping Tent
