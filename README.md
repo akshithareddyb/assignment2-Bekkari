@@ -34,3 +34,9 @@ Food Items that I would recommend to try and the cost that one should afford for
 |Vada Pav|Mumbai|$2|
 |Pani puri|Kolkata|$3|
 |Dosa|Bangalore|$1|
+
+--------
+
+#### QUOTES
+> "Don't feel stupid if you don't like what everyone else pretends to love" - *Emma Watson*
+> "When people throw stones at you, covert them into milestones" - *Sachin Tendulkar*
