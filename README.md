@@ -23,3 +23,14 @@ I am more **connected** to that place as it's my hometown and lot of **memories*
 * Camping Tent
 
 [AboutMe](AboutMe.md)
+
+-------
+
+#### NEW SECTION FOR FOOD ITEMS
+Food Items that I would recommend to try and the cost that one should afford for each item in respective places.
+|Item|Place|Cost|
+|-----|-----|-----:|
+|Chicken Biryani|Hyderabad|$4|
+|Vada Pav|Mumbai|$2|
+|Pani puri|Kolkata|$3|
+|Dosa|Bangalore|$1|
